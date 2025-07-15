@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![hyh2804](https://img.shields.io/badge/hyh2804-github-blue?logo=github)](https://github.com/hyh2804)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am a fourth year PhD student at USTC. My advisor is Bing Wang.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: hyh2804[at]mail.ustc.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+ Ph.D. of mathematics, University of  Science and Technology of China, 2021—2027(expected).\
+B.S. of mathematics,, Beijing Institute of Technology, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Minimal surface, Mean curvature flow.
 
