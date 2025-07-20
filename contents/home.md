@@ -2,7 +2,7 @@
 
 [![hyh2804](https://img.shields.io/badge/hyh2804-github-blue?logo=github)](https://github.com/hyh2804)
 
-I am a fourth year PhD student at USTC. My advisor is Bing Wang.
+I am a 5th year PhD student at USTC. My advisor is Bing Wang.
 
 #### Contact
 
