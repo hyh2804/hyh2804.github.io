@@ -10,7 +10,7 @@ Email: hyh2804[at]mail.ustc.edu.cn
 
 #### Education
  Ph.D. of mathematics, University of  Science and Technology of China, 2021—2026(expected).\
-B.S. of mathematics,, Beijing Institute of Technology, 2017—2021.
+B.S. of mathematics, Beijing Institute of Technology, 2017—2021.
 
 #### Research Interests
 Minimal surface, Mean curvature flow.
