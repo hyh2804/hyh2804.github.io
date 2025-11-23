@@ -9,7 +9,7 @@ I am a 5th year PhD student at USTC. My advisor is Bing Wang.
 Email: hyh2804[at]mail.ustc.edu.cn
 
 #### Education
- Ph.D. of mathematics, University of  Science and Technology of China, 2021—2026(expected).\
+ Ph.D. of mathematics, University of  Science and Technology of China, 2021—2026.\
 B.S. of mathematics, Beijing Institute of Technology, 2017—2021.
 
 #### Research Interests
