@@ -3,7 +3,7 @@
 
 [4]Y. Han, Riesz transforms   on Riemannian manifolds, in preparation.
 
-[3] Y. Han, B. Wang, The Calder\'on-Zygmund inequalities on Riemannian manifolds, in preparation.
+[3] Y. Han, B. Wang, The Calderon-Zygmund inequalities on Riemannian manifolds, in preparation.
 
 [2] Y. Han, Singularity of mean curvature flow with bounded mean curvature and Morse index, arXiv:2501.05489.
 
