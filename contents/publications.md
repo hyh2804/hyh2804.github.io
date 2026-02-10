@@ -4,7 +4,7 @@
 
 
 #### Published
-[3] Y. Han, Ancient mean curvature flows from minimal hypersurfaces, Geometriae Dedicata, 220.15, 2026.
+[3] Y. Han, Ancient mean curvature flows from minimal hypersurfaces, Geom. Dedicata, 220.15, 2026.
 
 [2] Y. Han, Mean curvature flow with pinched curvature integral, Differ. Geom. Appl., 99, 2025, pp: 102244.
 
