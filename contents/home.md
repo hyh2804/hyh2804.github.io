@@ -2,7 +2,8 @@
 
 [![hyh2804](https://img.shields.io/badge/hyh2804-github-blue?logo=github)](https://github.com/hyh2804)
 
-I am a 5th year PhD student at USTC. My advisor is Bing Wang.
+I am a postdoctoral fellow  at Institute of Mathematics, AMSS, CAS, supervised by Prof. Youde Wang. 
+I obtained my PhD at USTC, advised by Professor Bing Wang.
 
 #### Contact
 
