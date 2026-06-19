@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
 ![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
 
-# A simple Github Pages template for personal academic websites.
+# A simple G websites.
 
 ## Preview
 [![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
@@ -45,11 +45,7 @@ The directory structure is as follows:
     └── js
 ```
 
-(2) Modify the content of each section, which corresponds to `contents/*.md`.
-
-(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
-
-(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
+(2) Modifytphoto with new ones for your web pages in `static/assets/img/`
 
 (5) Push it: 
 ```
