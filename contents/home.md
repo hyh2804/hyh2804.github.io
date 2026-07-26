@@ -16,5 +16,5 @@ Postdoctoral fellow, Institute of Mathematics, AMSS, CAS 2026-2028.
 B.S. of mathematics, Beijing Institute of Technology, 2017—2021.
 
 #### Research Interests
-Minimal surface, Mean curvature flow.
+Differential Geometry, Partial Differential Equations.
 
