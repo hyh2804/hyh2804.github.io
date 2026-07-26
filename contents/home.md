@@ -6,7 +6,7 @@ I am a postdoctoral fellow  at Institute of Mathematics, AMSS, CAS, supervised b
 I obtained my PhD at USTC, advised by Professor Bing Wang. 
 #### Contact
 
-Email: hyh2804[at]mail.ustc.edu.cn
+Email: hyh98[at]amss.ac.cn
 
 #### Employment
 Postdoctoral fellow, Institute of Mathematics, AMSS, CAS 2026-2028.
