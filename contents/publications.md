@@ -1,5 +1,7 @@
 #### Preprint
 
+[5] Singularities of mean curvature flow with bounded total curvature (joint with Zhen Wang), arXiv:2610.18197.
+
 [4] Well-posedness of mean curvature flow,  arXiv:2603.22809.
 
 [3] The Calderon-zygmund inequality on evolving manifolds (joint wth B. Wang),  arXiv:2603.22742.
